@@ -491,3 +491,7 @@ Nombre d'emprunts en cours : 1
  - DVDs : 1
 Nombre de réservations enregistrées : 1
 ```
+
+## Short Gif
+
+![Demo](./demo-gif.gif)
